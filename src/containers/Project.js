@@ -64,7 +64,7 @@ class Project extends Component {
             </a>
             <ProjectBlurb>Generate new password!</ProjectBlurb>
           </div>
-        </div>
+        </div>        
       </div>
     );
   }
