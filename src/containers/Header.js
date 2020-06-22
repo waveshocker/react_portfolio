@@ -9,7 +9,7 @@ const ProfileImage = styled.img`
 `;
 
 const ProfileTitle = styled.h1`
-  color: black;
+  color: Blue;
 `
 
 const HeaderDiv = styled.div`
@@ -22,7 +22,7 @@ const HeaderDiv = styled.div`
 const NavLink = styled(Link)`
   display: inline-flex;
   margin: 0 5px;
-  color: black;
+  color: blue;
   font-size: 16px;
 `
 
